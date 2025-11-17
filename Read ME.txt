@@ -1,0 +1,10 @@
+Configure o arquivo configDB da pasta principal com os dados do seu banco de dados.
+
+Use o esquema de banco de dados fornecido no arquivo Banco Referência.txt
+
+execute o arquivo prepararAmbiente para criar o banco e cadastrar o usuário Admin.
+
+USE o arquivo login.py para iniciar e logue com o usuário Admin{
+    CPF: 00000000000
+    senha: teste12345
+}
