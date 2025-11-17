@@ -49,9 +49,9 @@ O portal do aluno é focado na consulta de seu desempenho acadêmico.
     <td align="center"><strong>Portal do Aluno</strong></td>
   </tr>
   <tr>
-    <td><img src="Portal%20Secretaria.png" alt="Tela da Secretaria" width="400"></td>
-    <td><img src="Portal%20Professor.png" alt="Tela do Professor" width="400"></td>
-    <td><img src="Portal%20Aluno.png" alt="Tela do Aluno" width="400"></td>
+    <td><img src="https://i.ibb.co/tPFR8Q8f/Portal-Secretaria.png" alt="Tela da Secretaria" width="400"></td>
+    <td><img src="https://i.ibb.co/n49VhZ4/Portal-Professor.png" alt="Tela do Professor" width="400"></td>
+    <td><img src="https://i.ibb.co/pvcFGKb0/Portal-Aluno.png" alt="Tela do Aluno" width="400"></td>
   </tr>
 </table>
 
